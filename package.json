@@ -1,0 +1,19 @@
+{
+    "author": "Paul Gilchrist",
+    "description": "Atmospherics JavaScript Library",
+    "homepage": "https://github.com/PaulGilchrist/pg-atmospherics.git",
+    "keywords": [
+        "atmospherics",
+        "ballistics",
+        "npm",
+        "pg-atmospherics"
+    ],
+    "license": "MIT",
+    "main": "atmospherics",
+    "name": "pg-atmospherics",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PaulGilchrist/pg-atmospherics.git"
+    },
+    "version": "1.0.1"
+}
